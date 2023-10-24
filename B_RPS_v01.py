@@ -41,6 +41,7 @@ def Choice_checker(question):
 # Main routine...
 
 # List for checking response
+yes_no_list = []
 rps_list = ["rock","paper","scissors"]
 
 # Loop for testing purposes
