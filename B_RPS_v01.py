@@ -17,7 +17,6 @@ def statement_generator(statement, side, top_bottom):
 
     return ""
 
-
 # Function that check the amount of rounds that the player wam=nts to play
 def check_rounds():
     while True:
